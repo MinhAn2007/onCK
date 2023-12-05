@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "q",
+      "contacts": [
+        {
+          "type": "email",
+          "value": "an"
+        },
+        {
+          "type": "phone",
+          "value": "qưeqweq"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
